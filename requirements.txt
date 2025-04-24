@@ -1,0 +1,4 @@
+groq==0.15.0
+streamlit==1.41.1
+pyttsx3==2.90  # For AI Voice Output (Text-to-Speech)
+
